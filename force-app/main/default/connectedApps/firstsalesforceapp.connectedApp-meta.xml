@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>vikaspoloju@gmail.com</contactEmail>
+    <label>firstsalesforceapp</label>
+    <oauthConfig>
+        <callbackUrl>http://localhost:1717/OauthRedirect</callbackUrl>
+        <certificate>MIIDkDCCAngCCQD59X9s8dz4dDANBgkqhkiG9w0BAQsFADCBiTELMAkGA1UEBhMCSW4xCzAJBgNVBAgTAlRzMQwwCgYDVQQHEwNIeWQxEzARBgNVBAoTCnNhbGVzZm9yY2UxEDAOBgNVBAsTB1Rlc3RpbmcxEzARBgNVBAMTCnNhbGVzZm9yY2UxIzAhBgkqhkiG9w0BCQEWFHZpa2FzcDI2OTJAZ21haWwuY29tMB4XDTIxMDkyMDEzNDIyN1oXDTIyMDkyMDEzNDIyN1owgYkxCzAJBgNVBAYTAkluMQswCQYDVQQIEwJUczEMMAoGA1UEBxMDSHlkMRMwEQYDVQQKEwpzYWxlc2ZvcmNlMRAwDgYDVQQLEwdUZXN0aW5nMRMwEQYDVQQDEwpzYWxlc2ZvcmNlMSMwIQYJKoZIhvcNAQkBFhR2aWthc3AyNjkyQGdtYWlsLmNvbTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMWcfA95wTOE7LX3DRMMESB8dvtD5u5Iqhh3w3bbNsJW00Iec+M7eF8AcPqHHSpMLxyfALxNdzSK3XvjWMtxB9rvEhwi/R7WIE2l5z1K5NTyCDbvo6QYocAM+hJR6Tsju2sMxEMbY7BqKwc7l5Mk/4Z35T6eDRcV3ge+nas+o4UCgjvEy6Lb9Ez6NNsxlrqT5/PAHnrtabI55pRpea0Task8fj1ZcUbqO0EZdfl3ez71JmgDZqyEpIWm9Co2hK3fD9OXRQo04EeHAE4UKneRobtZkEn+KSHBRHP6CvTX2sEsl6QvshFmkMUtUuo03crGqiEdihs+bZXa+Q2m6ze8DG0CAwEAATANBgkqhkiG9w0BAQsFAAOCAQEAoK0dgi/0CZMIsxBmxNLqFRUFPFZZXV3EsZIfPnJWHO399hyhjMoBO5pnAyUi1qY2cXZM2dvrAJYYY1m2cui+zfhhwH54JP1M1ehTtyZca/vVvRuo9ucsuHzpuhzKZHTaldpPNyNG16FhLLFWThCg83NG9AHcddLW5vvxYdRcsTPpSiHFnooXn5tmXTc2Pdjv5MQ4P1dQDFRGEZkrZwzH7lZOxoHVhH76ORPpHsS+sbJ2nw5cqwdKo2c+0dRr09xw4jqek/vWqsj7GRDwqqfRWO0KMYsm5JnAz6BCpIj14782+kPdnAc4WQ4v1UNZLl8NpJHrEa5DuQU6XH6bTK1NEA==</certificate>
+        
+        <scopes>Basic</scopes>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
